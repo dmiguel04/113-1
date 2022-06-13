@@ -1,0 +1,33 @@
+*
+{
+	margin:10px;
+	padding:10px; 
+}
+body
+{
+	background-color:#003333;
+	color:#ffffff;
+	font-family:verdana;  
+}
+img
+{
+	height:200px;
+	width:200px; 
+}
+header
+{
+	height:380px;  
+}
+nav
+{
+	height:100px;
+	width:450px; 
+}
+section
+{
+	height:370px; 
+}
+footer
+{
+	height:160px;
+}
